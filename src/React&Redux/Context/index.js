@@ -6,8 +6,8 @@ export const GreetContext = React.createContext()
 class Lesson extends Component {
   render () {
     return (
-      <GreetContext.Provider value='Hello1'>
-        <LevelOne greet="Hello"/>
+      <GreetContext.Provider value={{ greet: 'Hello', name: 'Ivan' }}>
+        <LevelOne/>
       </GreetContext.Provider>
     )
   }
