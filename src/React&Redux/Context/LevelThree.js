@@ -1,13 +1,22 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { GreetContext } from './index'
 
-const LevelThree = () =>
-  <GreetContext.Consumer>
+const LevelThree = () => {
+  { /* <Greet Context.Consumer>
     {({ greet, name, click }) => (
         <>
             <h1 onClick={click}>{greet}!</h1>
             <h1>My dear friend, {name}!</h1>
         </>)}
-  </GreetContext.Consumer>
+  </GreetContext.Consumer> */
+  }
+  const { greet, name, click } = useContext(GreetContext)
+  return (
+    <>
+        <h1 onClick={click}>{greet}!</h1>
+        <h1>My dear friend, {name}!</h1>
+    </>
+  )
+}
 
 export default LevelThree

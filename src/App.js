@@ -1,6 +1,6 @@
 import React from 'react'
 import Lesson from './React&Redux/Context'
-import Collapse from './react-collapse'
+import Collapse from './react-collapse/Collapse'
 import styled from 'styled-components'
 
 const Container = styled.div`
