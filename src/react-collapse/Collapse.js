@@ -1,5 +1,5 @@
-import React, {useState} from 'react'
-import {Collapse} from 'react-collapse'
+import React, { useState } from 'react'
+import { Collapse } from 'react-collapse'
 import styled from 'styled-components'
 import classNames from 'classnames'
 
@@ -63,21 +63,21 @@ const StyledCollapse = styled(Collapse)`
 `
 
 const CollapseComponent = () => {
-    const [isOpen, setOpen] = useState(false)
-    return (
-        <Container>
-            <ClickMe onClick={() => setOpen(!isOpen)}>Click me please!<span
-                className={classNames("arrow-btn", {'active': isOpen})}></span></ClickMe>
-            <StyledCollapse
-                isOpened={isOpen}
-            >
+  const [isOpen, setOpen] = useState(false)
+  return (
+    <Container>
+      <ClickMe onClick={() => setOpen(!isOpen)}>Click me please!<span
+        className={classNames('arrow-btn', { 'active': isOpen })}></span></ClickMe>
+      <StyledCollapse
+        isOpened={isOpen}
+      >
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid at beatae corporis dignissimos
                 distinctio eligendi eum illum, incidunt ipsa iure laudantium libero maiores minima minus necessitatibus
                 nisi nobis nulla odio odit praesentium quaerat quas quia quos soluta suscipit velit voluptatem
                 voluptates. Ab adipisci enim eum explicabo ipsam, qui repudiandae tempore.
-            </StyledCollapse>
-        </Container>
-    )
+      </StyledCollapse>
+    </Container>
+  )
 }
 
 export default CollapseComponent
