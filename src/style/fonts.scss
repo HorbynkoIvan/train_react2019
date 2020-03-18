@@ -1,0 +1,17 @@
+@mixin fontFace($FontName, $FontPathName ) {
+
+	@font-face {
+		font-family: '#{$FontName}';
+		src: url('../assets/fonts/#{$FontPathName}.woff2') format('woff2'),
+		url('../assets/fonts/#{$FontPathName}.woff') format('font-woff'),
+		url('../assets/fonts/#{$FontPathName}.ttf') format('truetype');
+		font-weight: normal;
+		font-style: normal;
+	}
+
+}
+
+@include fontFace('PT San Caption', 'ptsanscaption-regular');
+@include fontFace('PT San Caption Bold', 'ptsanscaption-bold');
+$font-ptsanscaption: "PT San Caption", Arial, Helvetica, sans-serif;
+$font-ptsanscaption-bold: "PT San Caption Bold", Arial, Helvetica, sans-serif;
