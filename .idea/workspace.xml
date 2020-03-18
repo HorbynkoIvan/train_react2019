@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df593d7-fe6c-4207-97c2-cefcf4f2926d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-collapse/Collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-collapse/Collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/footer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -215,26 +216,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="adding arrow-btn" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584478852852">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1584554552646">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584478852852" />
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1584478854893">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584554552646" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1584554398434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584478854893" />
-    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1584478854893">
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584554398434" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1584554398434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584478854893" />
-    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1584478854893">
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584554398434" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1584554398433">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584478854893" />
-    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1584478854893">
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584554398433" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1584554398434">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584478854893" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584554398434" />
     <state x="566" y="179" width="787" height="682" key="find.popup" timestamp="1577984911663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
