@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df593d7-fe6c-4207-97c2-cefcf4f2926d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/fonts.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +44,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WEB\gitHubDidIvan\train_react2019\src\react-collapse" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WEB\gitHubDidIvan\train_react2019\src\react-collapse" />
       <recent name="D:\WEB\gitHubDidIvan\train_react2019\src" />
       <recent name="D:\WEB\gitHubDidIvan\train_react2019" />
       <recent name="D:\WEB\gitHubDidIvan\train_react2019\src\React&amp;Redux\Context" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\WEB\gitHubDidIvan\train_react2019\src\react-collapse" />
     </key>
   </component>
   <component name="RunManager">

@@ -1,5 +1,4 @@
 @mixin fontFace($FontName, $FontPathName ) {
-
 	@font-face {
 		font-family: '#{$FontName}';
 		src: url('../assets/fonts/#{$FontPathName}.woff2') format('woff2'),
@@ -8,7 +7,6 @@
 		font-weight: normal;
 		font-style: normal;
 	}
-
 }
 
 @include fontFace('PT San Caption', 'ptsanscaption-regular');
